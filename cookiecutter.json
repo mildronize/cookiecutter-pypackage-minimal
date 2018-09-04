@@ -1,0 +1,7 @@
+{
+    "author_name": "Thada Wangthammang",
+    "author_email": "mildronize@gmail.com",
+    "package_name": "py_package",
+    "package_version": "0.1.0",
+    "package_description": "A minimal cookiecutter template"
+}
