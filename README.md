@@ -11,13 +11,15 @@ Inspire from https://github.com/kragniz/cookiecutter-pypackage-minimal
 ```
 pip install cookiecutter
 cookiecutter https://github.com/mildronize/cookiecutter-pypackage-minimal.git
+pipenv shell
 ```
 
 ## Getting Started
 
-Auto test
+Start dev
 
 ```
+pipenv shell
 make dev
 ```
 
