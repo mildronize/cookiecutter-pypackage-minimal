@@ -9,7 +9,7 @@ Inspire from https://github.com/kragniz/cookiecutter-pypackage-minimal
 
 # Usage
 ```
-pip install cookiecutter
+pip install cookiecutter pipenv
 cookiecutter https://github.com/mildronize/cookiecutter-pypackage-minimal.git
 pipenv shell
 ```
@@ -28,3 +28,9 @@ run test
 ```
 make test
 ```
+
+detroy env
+```
+pipenv --rm
+```
+
